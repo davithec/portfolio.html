@@ -1,2 +1,2 @@
 # portfolio.html
-Basic html template for a portfolio
+Basic html templates for a portfolio
